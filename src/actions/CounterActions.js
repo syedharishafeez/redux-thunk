@@ -1,3 +1,5 @@
+// Action Generators
+
 export const Increment = ({ incrementBy = 1 } = {}) => ({
   type: "INCREMENT",
   incrementBy
