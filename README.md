@@ -1,1 +1,1 @@
-# connecting-react-redux
+# Redux Thunk
